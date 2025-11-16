@@ -1,0 +1,40 @@
+﻿# ==== Unreal Engine ====
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.log
+*.suo
+*.sdf
+*.opensdf
+*.tlog
+*.tmp
+*.pdb
+*.idb
+*.exe
+*.dll
+*.app
+*.dSYM
+
+# ==== Rider / JetBrains ====
+.idea/
+*.iml
+out/
+*.iws
+*.ipr
+
+# ==== OS files ====
+.DS_Store
+Thumbs.db
+
+# ==== Plugin packaging ====
+*.uplugin.uprojectdirs
+*.zip
+
+# ==== Build system ====
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj/project.xcworkspace
+
+*.DotSettings.user
